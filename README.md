@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 🚚 Delivery Time Analysis
+# 🚚 Delivery Time Analysis
 
 **An end-to-end analytics project to understand what drives food delivery time and to present actionable insights through an interactive Streamlit dashboard.**
 
