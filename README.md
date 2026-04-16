@@ -4,7 +4,7 @@
 
 **An end-to-end analytics project to understand what drives food delivery time and to present actionable insights through an interactive Streamlit dashboard.**
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://e-commerce-customer-churn-analysis-and-retention-strategy.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://delivery-time-analysis.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 
