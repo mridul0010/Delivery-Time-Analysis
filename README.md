@@ -96,9 +96,7 @@ Dashboard screenshots can be added here to showcase key tabs and insights.
 
 Contributions are welcome. Please open an issue first to discuss major changes before submitting a pull request.
 
-## 📄 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
@@ -110,3 +108,13 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mridul0010)
 
 ---
+## 📄 License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+---
+
+<div align="center">
+
+⭐ **If you found this project useful, please consider giving it a star!** ⭐
+
+</div>
