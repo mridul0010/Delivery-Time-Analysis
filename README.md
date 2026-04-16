@@ -2,9 +2,26 @@
 
 An end-to-end analytics project to understand what drives food delivery time and to present actionable insights through an interactive Streamlit dashboard.
 
+## 📚 Table of Contents
+
+- [About the Project](#-about-the-project)
+- [Key Features](#-key-features)
+- [Tech Stack](#-tech-stack)
+- [Getting Started](#-getting-started)
+- [Project Structure](#-project-structure)
+- [Data Description](#-data-description)
+- [Screenshots](#-screenshots)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [Author](#-author)
+
 ## 🔗 Live Dashboard
 
 👉 https://delivery-time-analysis.streamlit.app/
+
+## 📖 About the Project
+
+This project analyzes delivery operations using exploratory data analysis and feature engineering, then presents findings in a Streamlit dashboard for business decision-making.
 
 ## 🎯 Project Objective
 
@@ -33,7 +50,7 @@ Identify the most important operational factors affecting delivery performance a
 - Plotly
 - Statsmodels
 
-## 📂 Repository Structure
+## 📁 Project Structure
 
 ```text
 Delivery-Time-Analysis/
@@ -45,7 +62,7 @@ Delivery-Time-Analysis/
 └── README.md
 ```
 
-## ⚙️ Run Locally
+## 🚀 Getting Started
 
 1. Clone this repository
 2. Install dependencies:
@@ -56,6 +73,23 @@ Delivery-Time-Analysis/
    ```bash
    streamlit run app.py
    ```
+
+## 🗂️ Data Description
+
+- `data/Delivery Dataset.csv`: Raw delivery dataset used in preprocessing.
+- `data/Cleaned Delivery Dataset.csv`: Cleaned dataset consumed by the Streamlit app.
+
+## 📸 Screenshots
+
+Dashboard screenshots can be added here to showcase key tabs and insights.
+
+## 🤝 Contributing
+
+Contributions are welcome. Please open an issue first to discuss major changes before submitting a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ## 👤 Author
 
