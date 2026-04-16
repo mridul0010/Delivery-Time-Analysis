@@ -1,18 +1,28 @@
 # 🚚 Delivery Time Analysis
 
-A professional data analytics project focused on understanding and visualizing the key factors that affect food delivery time.  
-This repository includes data preprocessing notebooks and a Streamlit dashboard for interactive analysis.
+An end-to-end analytics project to understand what drives food delivery time and to present actionable insights through an interactive Streamlit dashboard.
 
-## 🔗 Live Demo
+## 🔗 Live Dashboard
 
 👉 https://delivery-time-analysis.streamlit.app/
 
-## 📌 Project Highlights
+## 🎯 Project Objective
 
-- Interactive Streamlit dashboard for delivery-time insights
-- Analysis of operational factors like traffic, distance, weather, and time of day
-- Visual analytics using Plotly for clear business interpretation
-- Cleaned dataset and preprocessing notebooks for reproducible workflow
+Identify the most important operational factors affecting delivery performance and support data-driven decisions for faster and more reliable deliveries.
+
+## 📌 Key Features
+
+- Interactive Streamlit dashboard with business-focused visual insights
+- End-to-end preprocessing and feature engineering workflow
+- Analysis across traffic, distance, time of day, weather, and rider factors
+- Filterable data exploration with CSV download support
+
+## 🧠 Key Insights
+
+- **Traffic density** is the strongest contributor to delivery delays
+- **Time of day** amplifies traffic impact, especially during evening hours
+- **Multiple deliveries per rider** increase delivery time non-linearly
+- **Rider rating and efficiency** matter more than raw speed alone
 
 ## 🛠️ Tech Stack
 
@@ -25,20 +35,24 @@ This repository includes data preprocessing notebooks and a Streamlit dashboard 
 
 ## 📂 Repository Structure
 
-- `/app.py` — Streamlit application
-- `/data/` — raw and cleaned delivery datasets
-- `/Data_Preprocessing.ipynb` — preprocessing workflow
-- `/EDA.ipynb` — exploratory data analysis
-- `/requirements.txt` — project dependencies
+```text
+Delivery-Time-Analysis/
+├── app.py
+├── Data_Preprocessing.ipynb
+├── EDA.ipynb
+├── data/
+├── requirements.txt
+└── README.md
+```
 
-## ▶️ Run Locally
+## ⚙️ Run Locally
 
-1. Clone the repository
+1. Clone this repository
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Start the app:
+3. Launch the dashboard:
    ```bash
    streamlit run app.py
    ```
